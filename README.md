@@ -1,3 +1,4 @@
+![Arch Install Guide](etc/banner.png)
 Arch Install Guide
 ===================
 
