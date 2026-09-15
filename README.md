@@ -95,9 +95,9 @@ reboot
 
 **10)** Desktop (KDE Plasma)
 ```sh
-pacman -S plasma sddm
+pacman -S plasma-meta plasma-login-manager
 pacman -S konsole kate firefox
-systemctl enable --now sddm
+systemctl enable --now plasmalogin
 ```
 > Installs Plasma, a login manager, a terminal, an editor, and a browser — then starts the login screen right away.
 
