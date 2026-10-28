@@ -237,8 +237,9 @@ Reboot once more, and you'll see the KDE login screen. Log in as your user and y
 > Note: After everything is done, all you can do is bless me..... 😊
 
 ## Requirements
-- A working internet connection during install
+- An internet connection
 - An Arch Linux installation medium (USB)
+- A Laptop that works
 
 ## Acknowledgement
 
