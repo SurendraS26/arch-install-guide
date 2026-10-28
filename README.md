@@ -144,6 +144,7 @@ Hey, this is a quick guide to install Arch Linux with your own hands 😊
 > nano /etc/locale.conf
 ```
 - Add this line:
+
   ```
   LANG=en_US.UTF-8
   ```
@@ -153,6 +154,7 @@ Hey, this is a quick guide to install Arch Linux with your own hands 😊
 > nano /etc/vconsole.conf
 ```
 - Add this line:
+
   ```
   KEYMAP=us
   ```
