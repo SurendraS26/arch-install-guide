@@ -1,7 +1,7 @@
 # Arch Install Guide
 
 Hey, this is a quick guide to install Arch Linux with your own hands 😊
-> Trust me, you can install it without those arch-install-scripts. You can flex it!!
+> Trust me, you can install it without those `arch-install-scripts`. You can flex it!!
 
 **First step**
 -----
@@ -10,7 +10,7 @@ Hey, this is a quick guide to install Arch Linux with your own hands 😊
 - Download the file `archlinux-x86_64.iso`.
 - Use an image flashing tool like Rufus and flash it to a USB drive.
 
-> Note: 80% of your job is done. The rest 20% is patience and following this guide.
+> Note: Half is done. The rest half is patience and Installing Arch Linux 🩷.
 
 ---
 
