@@ -1,6 +1,6 @@
 # Arch Install Guide
 
-Hey, this is a quick guide to install Arch Linux with your own hands 😊
+Hey, this is a quick guide to install Arch Linux with your own hands 
 > Trust me, you can install it without those `arch-install-scripts`. You can proudly flex `I Use Arch BTW`!!
 
 **First step**
@@ -10,7 +10,7 @@ Hey, this is a quick guide to install Arch Linux with your own hands 😊
 - Download the file `archlinux-x86_64.iso`.
 - Use an image flashing tool like Rufus and flash it to a USB drive.
 
-> Note: Half is done. The rest half is patience and Installing Arch Linux 🩷.
+> Note: Half is done. The rest half is patience and Installing Arch Linux.
 
 ---
 
@@ -31,7 +31,7 @@ Hey, this is a quick guide to install Arch Linux with your own hands 😊
   > device list
   > station wlan0 scan
   > station wlan0 get-networks
-  > station wlan0 connect "YourWIFEName"
+  > station wlan0 connect "YourWIFIName"
   ```
 > Note: replace `wlan0` with your device name if different, and `"YourWiFiName"` with your Wi-Fi name. Enter the password when asked.
 - Type `exit` to leave iwctl.
@@ -233,10 +233,10 @@ After reboot, log in as `root`, then:
 - Second line installs a terminal, editor, and browser.
 - Third line starts the login screen now (and on every boot).
 
-Reboot once more, and you'll see the KDE login screen. Log in as your user and you're done 🎉
+Reboot once more, and you'll see the KDE login screen. Log in as your user and you're done
 
 ---
-> Note: After everything is done, all you can do is bless me..... 😊
+> Note: Installation of KDE is complete. Your Arch Linux is Ready to Use.  
 
 ## Requirements
 - An internet connection
